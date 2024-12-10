@@ -1,6 +1,0 @@
-
-
-Certain sections of this project were refined and debugged using
-ChatGPT and GenAI tools. 
-
-These tools contributed mainly to error resolution, structural improvements, and documentation enhancements while maintaining project integrity.
